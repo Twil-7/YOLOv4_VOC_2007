@@ -3,7 +3,9 @@
 # 环境配置：
 
 python == 3.6
+
 tensorflow == 2.3.0
+
 opencv == 3.4.2
 
 
@@ -21,7 +23,11 @@ opencv == 3.4.2
 
 （5）utils文件夹：存放YOLOv4辅助功能.py文件。
 
-（6）yolo4_weight.h5：原始载入的YOLOv4权重文件；best_ep036-loss2.248-val_loss2.266.h5：自己训练的权重文件。
+（6）权重文件：
+
+yolo4_weight.h5：原始载入的YOLOv4权重文件。
+
+best_ep036-loss2.248-val_loss2.266.h5：自己训练的权重文件。
 
 下载路径：https://blog.csdn.net/Twilight737?spm=1018.2226.3001.5343&type=download
 
